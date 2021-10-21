@@ -8,9 +8,9 @@ The intent will be analyze different features of the dataset such age, education
 
 #### Data Source
 
-Kaggle Data
+Kaggle
 
-[!Link to Page](https://www.kaggle.com/imakash3011/customer-personality-analysis)
+[Link to Page](https://www.kaggle.com/imakash3011/customer-personality-analysis)
 
 #### Questions Intended to Answer
 
